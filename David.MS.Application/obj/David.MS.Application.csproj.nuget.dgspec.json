@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Application\\David.MS.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Application\\David.MS.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Application\\David.MS.Application.csproj",
+        "projectName": "David.MS.Application",
+        "projectPath": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Application\\David.MS.Application.csproj",
+        "packagesPath": "C:\\Users\\david.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://homolog.argoit.com.br/argonuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\David.MS.Entity.csproj": {
+                "projectPath": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\David.MS.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\David.MS.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\David.MS.Entity.csproj",
+        "projectName": "David.MS.Entity",
+        "projectPath": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\David.MS.Entity.csproj",
+        "packagesPath": "C:\\Users\\david.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\david.santos\\Desktop\\David\\Estudos\\Oportunidade\\David.MS.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://homolog.argoit.com.br/argonuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

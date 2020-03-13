@@ -1,0 +1,16 @@
+C:\Projetos\David.MS.Run\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.deps.json
+C:\Projetos\David.MS.Run\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.dll
+C:\Projetos\David.MS.Run\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.pdb
+C:\Projetos\David.MS.Run\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.csprojAssemblyReference.cache
+C:\Projetos\David.MS.Run\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.AssemblyInfoInputs.cache
+C:\Projetos\David.MS.Run\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.AssemblyInfo.cs
+C:\Projetos\David.MS.Run\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.dll
+C:\Projetos\David.MS.Run\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.pdb
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.deps.json
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.dll
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\bin\Debug\netcoreapp3.1\David.MS.Entity.pdb
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.csprojAssemblyReference.cache
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.AssemblyInfoInputs.cache
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.AssemblyInfo.cs
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.dll
+C:\Users\david.santos\Desktop\David\Estudos\Oportunidade\David.MS.Entity\obj\Debug\netcoreapp3.1\David.MS.Entity.pdb
